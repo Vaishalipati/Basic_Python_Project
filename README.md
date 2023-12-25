@@ -1,2 +1,2 @@
 # Basic_Python_Project
-this is my first basic python project
+this is my first basic python project.
