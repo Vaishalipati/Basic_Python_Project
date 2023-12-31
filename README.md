@@ -1,4 +1,4 @@
 # Basic_Python_Project
-<h1>--tic-tac-tooe game--</h1>
+<h1>--tic-tac-toe game--</h1>
 this is a small game built in python.
 
