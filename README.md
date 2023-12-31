@@ -1,2 +1,4 @@
 # Basic_Python_Project
-this is my first basic python project.
+<h1>--tic-tac-tooe game--</h1>
+this is a small game built in python.
+
